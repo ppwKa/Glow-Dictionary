@@ -1,0 +1,24 @@
+/* content.css (v0.3.1) */
+
+/* 改为“有色下划线”高亮（不再用背景色） */
+.glow-highlight {
+  text-decoration-line: underline;
+  text-decoration-color: #ff6b00;           /* 可根据喜好调整 */
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  background: none !important;
+  box-shadow: none !important;
+  cursor: help;
+}
+
+/* 悬停时略微强调 */
+.glow-highlight:hover {
+  text-decoration-thickness: 3px;
+}
+
+/* 暗色背景页面上，提升可见度（尽量不抢样式控制权） */
+@media (prefers-color-scheme: dark) {
+  .glow-highlight {
+    text-decoration-color: #ffd166;
+  }
+}

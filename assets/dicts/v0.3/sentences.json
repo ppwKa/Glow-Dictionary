@@ -1,0 +1,2912 @@
+{
+  "The cat is essential.": {
+    "translation": "这个猫至关重要。",
+    "related": "cat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cat"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the capacity.": {
+    "translation": "我读了一份关于该容量的报告。",
+    "related": "capacity",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: capacity"
+    ],
+    "scenes": "四级例句"
+  },
+  "This offer matters to us.": {
+    "translation": "这个提供对我们很重要。",
+    "related": "offer",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: offer"
+    ],
+    "scenes": "四级例句"
+  },
+  "The conference improved a lot.": {
+    "translation": "该会议有很大提升。",
+    "related": "conference",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: conference"
+    ],
+    "scenes": "四级例句"
+  },
+  "The body improved a lot.": {
+    "translation": "该身体有很大提升。",
+    "related": "body",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: body"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the holiday.": {
+    "translation": "我读了一份关于该假期的报告。",
+    "related": "holiday",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: holiday"
+    ],
+    "scenes": "四级例句"
+  },
+  "The glass improved a lot.": {
+    "translation": "该玻璃有很大提升。",
+    "related": "glass",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: glass"
+    ],
+    "scenes": "四级例句"
+  },
+  "It is royal to try.": {
+    "translation": "尝试是王的的。",
+    "related": "royal",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: royal"
+    ],
+    "scenes": "四级例句"
+  },
+  "This wave matters to us.": {
+    "translation": "这个波对我们很重要。",
+    "related": "wave",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: wave"
+    ],
+    "scenes": "四级例句"
+  },
+  "Staying different helps.": {
+    "translation": "保持差异的很有帮助。",
+    "related": "different",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: different"
+    ],
+    "scenes": "四级例句"
+  },
+  "The cut improved a lot.": {
+    "translation": "该切有很大提升。",
+    "related": "cut",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cut"
+    ],
+    "scenes": "四级例句"
+  },
+  "The dawn is essential.": {
+    "translation": "这个黎明至关重要。",
+    "related": "dawn",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: dawn"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the oar.": {
+    "translation": "我读了一份关于该浆的报告。",
+    "related": "oar",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: oar"
+    ],
+    "scenes": "四级例句"
+  },
+  "The kneel improved a lot.": {
+    "translation": "该跪有很大提升。",
+    "related": "kneel",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: kneel"
+    ],
+    "scenes": "四级例句"
+  },
+  "The ordinary improved a lot.": {
+    "translation": "该平常的有很大提升。",
+    "related": "ordinary",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: ordinary"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the postage.": {
+    "translation": "我读了一份关于该邮费的报告。",
+    "related": "postage",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: postage"
+    ],
+    "scenes": "四级例句"
+  },
+  "The cheer improved a lot.": {
+    "translation": "该使振作有很大提升。",
+    "related": "cheer",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cheer"
+    ],
+    "scenes": "四级例句"
+  },
+  "The pass improved a lot.": {
+    "translation": "该经过有很大提升。",
+    "related": "pass",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: pass"
+    ],
+    "scenes": "四级例句"
+  },
+  "The level improved a lot.": {
+    "translation": "该水平面 adj有很大提升。",
+    "related": "level",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: level"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the anywhere.": {
+    "translation": "我读了一份关于该在什么地方的报告。",
+    "related": "anywhere",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: anywhere"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the affect.": {
+    "translation": "我读了一份关于该影响的报告。",
+    "related": "affect",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: affect"
+    ],
+    "scenes": "四级例句"
+  },
+  "The deer improved a lot.": {
+    "translation": "该鹿有很大提升。",
+    "related": "deer",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: deer"
+    ],
+    "scenes": "四级例句"
+  },
+  "This every matters to us.": {
+    "translation": "这个每一的对我们很重要。",
+    "related": "every",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: every"
+    ],
+    "scenes": "四级例句"
+  },
+  "The bar improved a lot.": {
+    "translation": "该酒吧间有很大提升。",
+    "related": "bar",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bar"
+    ],
+    "scenes": "四级例句"
+  },
+  "This plenty matters to us.": {
+    "translation": "这个丰富对我们很重要。",
+    "related": "plenty",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: plenty"
+    ],
+    "scenes": "四级例句"
+  },
+  "The baggage is essential.": {
+    "translation": "这个行李至关重要。",
+    "related": "baggage",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: baggage"
+    ],
+    "scenes": "四级例句"
+  },
+  "The pint is essential.": {
+    "translation": "这个品脱至关重要。",
+    "related": "pint",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: pint"
+    ],
+    "scenes": "四级例句"
+  },
+  "Speak fly and clearly.": {
+    "translation": "说话要蝇且清晰。",
+    "related": "fly",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: fly"
+    ],
+    "scenes": "四级例句"
+  },
+  "The friend improved a lot.": {
+    "translation": "该朋友有很大提升。",
+    "related": "friend",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: friend"
+    ],
+    "scenes": "四级例句"
+  },
+  "This any matters to us.": {
+    "translation": "这个什么对我们很重要。",
+    "related": "any",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: any"
+    ],
+    "scenes": "四级例句"
+  },
+  "The nurse is essential.": {
+    "translation": "这个护士至关重要。",
+    "related": "nurse",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: nurse"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the toilet.": {
+    "translation": "我读了一份关于该厕所的报告。",
+    "related": "toilet",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: toilet"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the creep.": {
+    "translation": "我读了一份关于该爬行的报告。",
+    "related": "creep",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: creep"
+    ],
+    "scenes": "四级例句"
+  },
+  "The goods improved a lot.": {
+    "translation": "该货物有很大提升。",
+    "related": "goods",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: goods"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the career.": {
+    "translation": "我读了一份关于该生涯的报告。",
+    "related": "career",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: career"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the museum.": {
+    "translation": "我读了一份关于该博物馆的报告。",
+    "related": "museum",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: museum"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the coast.": {
+    "translation": "我读了一份关于该海岸的报告。",
+    "related": "coast",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: coast"
+    ],
+    "scenes": "四级例句"
+  },
+  "The diamond is essential.": {
+    "translation": "这个金钢石至关重要。",
+    "related": "diamond",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: diamond"
+    ],
+    "scenes": "四级例句"
+  },
+  "He works increasingly.": {
+    "translation": "他工作得日益。",
+    "related": "increasingly",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: increasingly"
+    ],
+    "scenes": "四级例句"
+  },
+  "This spill matters to us.": {
+    "translation": "这个使溢出对我们很重要。",
+    "related": "spill",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: spill"
+    ],
+    "scenes": "四级例句"
+  },
+  "The comprehension is essential.": {
+    "translation": "这个理解至关重要。",
+    "related": "comprehension",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: comprehension"
+    ],
+    "scenes": "四级例句"
+  },
+  "The chest is essential.": {
+    "translation": "这个胸腔至关重要。",
+    "related": "chest",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: chest"
+    ],
+    "scenes": "四级例句"
+  },
+  "They will otherwise the plan.": {
+    "translation": "他们将否则这个计划。",
+    "related": "otherwise",
+    "pos": "v.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:v."
+    ],
+    "examples": [
+      "Related word: otherwise"
+    ],
+    "scenes": "四级例句"
+  },
+  "This movement matters to us.": {
+    "translation": "这个动作对我们很重要。",
+    "related": "movement",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: movement"
+    ],
+    "scenes": "四级例句"
+  },
+  "The bowl is essential.": {
+    "translation": "这个碗至关重要。",
+    "related": "bowl",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bowl"
+    ],
+    "scenes": "四级例句"
+  },
+  "This bat matters to us.": {
+    "translation": "这个球拍对我们很重要。",
+    "related": "bat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bat"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the somewhat.": {
+    "translation": "我读了一份关于该有点的报告。",
+    "related": "somewhat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: somewhat"
+    ],
+    "scenes": "四级例句"
+  },
+  "The ancestor is essential.": {
+    "translation": "这个祖宗至关重要。",
+    "related": "ancestor",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: ancestor"
+    ],
+    "scenes": "四级例句"
+  },
+  "Staying liberal helps.": {
+    "translation": "保持心胸宽大的很有帮助。",
+    "related": "liberal",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: liberal"
+    ],
+    "scenes": "四级例句"
+  },
+  "The far improved a lot.": {
+    "translation": "该远的 adv有很大提升。",
+    "related": "far",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: far"
+    ],
+    "scenes": "四级例句"
+  },
+  "Staying tropical helps.": {
+    "translation": "保持热带的很有帮助。",
+    "related": "tropical",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: tropical"
+    ],
+    "scenes": "四级例句"
+  },
+  "The molecule improved a lot.": {
+    "translation": "该分子有很大提升。",
+    "related": "molecule",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: molecule"
+    ],
+    "scenes": "四级例句"
+  },
+  "The plan seems general.": {
+    "translation": "这个计划看起来很总的。",
+    "related": "general",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: general"
+    ],
+    "scenes": "四级例句"
+  },
+  "The gentle improved a lot.": {
+    "translation": "该和蔼的有很大提升。",
+    "related": "gentle",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: gentle"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the motion.": {
+    "translation": "我读了一份关于该运动的报告。",
+    "related": "motion",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: motion"
+    ],
+    "scenes": "四级例句"
+  },
+  "The however is essential.": {
+    "translation": "这个然而至关重要。",
+    "related": "however",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: however"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the float.": {
+    "translation": "我读了一份关于该漂浮的报告。",
+    "related": "float",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: float"
+    ],
+    "scenes": "四级例句"
+  },
+  "The adjust is essential.": {
+    "translation": "这个调整至关重要。",
+    "related": "adjust",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: adjust"
+    ],
+    "scenes": "四级例句"
+  },
+  "The drama improved a lot.": {
+    "translation": "该戏剧有很大提升。",
+    "related": "drama",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: drama"
+    ],
+    "scenes": "四级例句"
+  },
+  "This circular matters to us.": {
+    "translation": "这个圆的对我们很重要。",
+    "related": "circular",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: circular"
+    ],
+    "scenes": "四级例句"
+  },
+  "This above matters to us.": {
+    "translation": "这个在…上面对我们很重要。",
+    "related": "above",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: above"
+    ],
+    "scenes": "四级例句"
+  },
+  "The enthusiastic is essential.": {
+    "translation": "这个热情的至关重要。",
+    "related": "enthusiastic",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: enthusiastic"
+    ],
+    "scenes": "四级例句"
+  },
+  "The landlord improved a lot.": {
+    "translation": "该地主有很大提升。",
+    "related": "landlord",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: landlord"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the volcano.": {
+    "translation": "我读了一份关于该火山的报告。",
+    "related": "volcano",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: volcano"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the hard.": {
+    "translation": "我读了一份关于该硬的的报告。",
+    "related": "hard",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: hard"
+    ],
+    "scenes": "四级例句"
+  },
+  "The microphone improved a lot.": {
+    "translation": "该话筒有很大提升。",
+    "related": "microphone",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: microphone"
+    ],
+    "scenes": "四级例句"
+  },
+  "The proud is essential.": {
+    "translation": "这个骄傲的至关重要。",
+    "related": "proud",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: proud"
+    ],
+    "scenes": "四级例句"
+  },
+  "Speak gently and clearly.": {
+    "translation": "说话要有礼貌地且清晰。",
+    "related": "gently",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: gently"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the curl.": {
+    "translation": "我读了一份关于该卷毛的报告。",
+    "related": "curl",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: curl"
+    ],
+    "scenes": "四级例句"
+  },
+  "The flavour is essential.": {
+    "translation": "这个味至关重要。",
+    "related": "flavour",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: flavour"
+    ],
+    "scenes": "四级例句"
+  },
+  "The loud is essential.": {
+    "translation": "这个响亮的至关重要。",
+    "related": "loud",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: loud"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the manner.": {
+    "translation": "我读了一份关于该方式的报告。",
+    "related": "manner",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: manner"
+    ],
+    "scenes": "四级例句"
+  },
+  "The tender improved a lot.": {
+    "translation": "该嫩的有很大提升。",
+    "related": "tender",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: tender"
+    ],
+    "scenes": "四级例句"
+  },
+  "The dry improved a lot.": {
+    "translation": "该干的有很大提升。",
+    "related": "dry",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: dry"
+    ],
+    "scenes": "四级例句"
+  },
+  "This mute matters to us.": {
+    "translation": "这个缄默的 n对我们很重要。",
+    "related": "mute",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: mute"
+    ],
+    "scenes": "四级例句"
+  },
+  "This dorm matters to us.": {
+    "translation": "这个宿舍对我们很重要。",
+    "related": "dorm",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: dorm"
+    ],
+    "scenes": "四级例句"
+  },
+  "The discard improved a lot.": {
+    "translation": "该丢弃有很大提升。",
+    "related": "discard",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: discard"
+    ],
+    "scenes": "四级例句"
+  },
+  "The change improved a lot.": {
+    "translation": "该改变有很大提升。",
+    "related": "change",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: change"
+    ],
+    "scenes": "四级例句"
+  },
+  "The outstanding is essential.": {
+    "translation": "这个突出的至关重要。",
+    "related": "outstanding",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: outstanding"
+    ],
+    "scenes": "四级例句"
+  },
+  "This wear matters to us.": {
+    "translation": "这个磨损对我们很重要。",
+    "related": "wear",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: wear"
+    ],
+    "scenes": "四级例句"
+  },
+  "Students relate after class.": {
+    "translation": "学生们下课后会使联系。",
+    "related": "relate",
+    "pos": "v.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:v."
+    ],
+    "examples": [
+      "Related word: relate"
+    ],
+    "scenes": "四级例句"
+  },
+  "She looks radioactive today.": {
+    "translation": "她今天看起来很放射性的。",
+    "related": "radioactive",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: radioactive"
+    ],
+    "scenes": "四级例句"
+  },
+  "The geography improved a lot.": {
+    "translation": "该地理有很大提升。",
+    "related": "geography",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: geography"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the his.": {
+    "translation": "我读了一份关于该他的的报告。",
+    "related": "his",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: his"
+    ],
+    "scenes": "四级例句"
+  },
+  "She looks probable today.": {
+    "translation": "她今天看起来很很可能的。",
+    "related": "probable",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: probable"
+    ],
+    "scenes": "四级例句"
+  },
+  "The aware is essential.": {
+    "translation": "这个知道的至关重要。",
+    "related": "aware",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: aware"
+    ],
+    "scenes": "四级例句"
+  },
+  "Staying central helps.": {
+    "translation": "保持中心的很有帮助。",
+    "related": "central",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: central"
+    ],
+    "scenes": "四级例句"
+  },
+  "This ownership matters to us.": {
+    "translation": "这个所有对我们很重要。",
+    "related": "ownership",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: ownership"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the nine.": {
+    "translation": "我读了一份关于该九的报告。",
+    "related": "nine",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: nine"
+    ],
+    "scenes": "四级例句"
+  },
+  "This voyage matters to us.": {
+    "translation": "这个航海对我们很重要。",
+    "related": "voyage",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: voyage"
+    ],
+    "scenes": "四级例句"
+  },
+  "Staying expensive helps.": {
+    "translation": "保持昂贵的很有帮助。",
+    "related": "expensive",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: expensive"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the provide.": {
+    "translation": "我读了一份关于该提供的报告。",
+    "related": "provide",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: provide"
+    ],
+    "scenes": "四级例句"
+  },
+  "The before is essential.": {
+    "translation": "这个在…以前至关重要。",
+    "related": "before",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: before"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the empty.": {
+    "translation": "我读了一份关于该空的的报告。",
+    "related": "empty",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: empty"
+    ],
+    "scenes": "四级例句"
+  },
+  "The heat improved a lot.": {
+    "translation": "该热有很大提升。",
+    "related": "heat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: heat"
+    ],
+    "scenes": "四级例句"
+  },
+  "This canadian matters to us.": {
+    "translation": "这个加拿大的对我们很重要。",
+    "related": "canadian",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: canadian"
+    ],
+    "scenes": "四级例句"
+  },
+  "The beam improved a lot.": {
+    "translation": "该梁有很大提升。",
+    "related": "beam",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: beam"
+    ],
+    "scenes": "四级例句"
+  },
+  "This last matters to us.": {
+    "translation": "这个最后的 adv对我们很重要。",
+    "related": "last",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: last"
+    ],
+    "scenes": "四级例句"
+  },
+  "This cause matters to us.": {
+    "translation": "这个原因对我们很重要。",
+    "related": "cause",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cause"
+    ],
+    "scenes": "四级例句"
+  },
+  "The exclaim is essential.": {
+    "translation": "这个呼喊至关重要。",
+    "related": "exclaim",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: exclaim"
+    ],
+    "scenes": "四级例句"
+  },
+  "The breed is essential.": {
+    "translation": "这个品种 v至关重要。",
+    "related": "breed",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: breed"
+    ],
+    "scenes": "四级例句"
+  },
+  "This keeper matters to us.": {
+    "translation": "这个饲养员对我们很重要。",
+    "related": "keeper",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: keeper"
+    ],
+    "scenes": "四级例句"
+  },
+  "The mouth is essential.": {
+    "translation": "这个嘴至关重要。",
+    "related": "mouth",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: mouth"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the camel.": {
+    "translation": "我读了一份关于该骆驼的报告。",
+    "related": "camel",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: camel"
+    ],
+    "scenes": "四级例句"
+  },
+  "The hell improved a lot.": {
+    "translation": "该地狱有很大提升。",
+    "related": "hell",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: hell"
+    ],
+    "scenes": "四级例句"
+  },
+  "The fourth is essential.": {
+    "translation": "这个第四 n至关重要。",
+    "related": "fourth",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: fourth"
+    ],
+    "scenes": "四级例句"
+  },
+  "The march improved a lot.": {
+    "translation": "该三月有很大提升。",
+    "related": "march",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: march"
+    ],
+    "scenes": "四级例句"
+  },
+  "The entrance improved a lot.": {
+    "translation": "该入口有很大提升。",
+    "related": "entrance",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: entrance"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the consider.": {
+    "translation": "我读了一份关于该考虑的报告。",
+    "related": "consider",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: consider"
+    ],
+    "scenes": "四级例句"
+  },
+  "The compress is essential.": {
+    "translation": "这个压紧至关重要。",
+    "related": "compress",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: compress"
+    ],
+    "scenes": "四级例句"
+  },
+  "This brow matters to us.": {
+    "translation": "这个额对我们很重要。",
+    "related": "brow",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: brow"
+    ],
+    "scenes": "四级例句"
+  },
+  "The sound improved a lot.": {
+    "translation": "该健康的有很大提升。",
+    "related": "sound",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: sound"
+    ],
+    "scenes": "四级例句"
+  },
+  "The recall improved a lot.": {
+    "translation": "该回想有很大提升。",
+    "related": "recall",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: recall"
+    ],
+    "scenes": "四级例句"
+  },
+  "They moved scarcely.": {
+    "translation": "他们移动得几乎不。",
+    "related": "scarcely",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: scarcely"
+    ],
+    "scenes": "四级例句"
+  },
+  "This mayor matters to us.": {
+    "translation": "这个市长对我们很重要。",
+    "related": "mayor",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: mayor"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the most.": {
+    "translation": "我读了一份关于该最多的 adv的报告。",
+    "related": "most",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: most"
+    ],
+    "scenes": "四级例句"
+  },
+  "The connection is essential.": {
+    "translation": "这个连接至关重要。",
+    "related": "connection",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: connection"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the nature.": {
+    "translation": "我读了一份关于该大自然的报告。",
+    "related": "nature",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: nature"
+    ],
+    "scenes": "四级例句"
+  },
+  "The alone is essential.": {
+    "translation": "这个单独的 adv至关重要。",
+    "related": "alone",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: alone"
+    ],
+    "scenes": "四级例句"
+  },
+  "The plan seems marvellous.": {
+    "translation": "这个计划看起来很奇迹般的。",
+    "related": "marvellous",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: marvellous"
+    ],
+    "scenes": "四级例句"
+  },
+  "The hold is essential.": {
+    "translation": "这个拿住至关重要。",
+    "related": "hold",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: hold"
+    ],
+    "scenes": "四级例句"
+  },
+  "The like improved a lot.": {
+    "translation": "该喜欢有很大提升。",
+    "related": "like",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: like"
+    ],
+    "scenes": "四级例句"
+  },
+  "This treat matters to us.": {
+    "translation": "这个对待对我们很重要。",
+    "related": "treat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: treat"
+    ],
+    "scenes": "四级例句"
+  },
+  "The beg improved a lot.": {
+    "translation": "该乞求有很大提升。",
+    "related": "beg",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: beg"
+    ],
+    "scenes": "四级例句"
+  },
+  "The footstep improved a lot.": {
+    "translation": "该脚步有很大提升。",
+    "related": "footstep",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: footstep"
+    ],
+    "scenes": "四级例句"
+  },
+  "The himself is essential.": {
+    "translation": "这个他自己至关重要。",
+    "related": "himself",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: himself"
+    ],
+    "scenes": "四级例句"
+  },
+  "This cure matters to us.": {
+    "translation": "这个医治对我们很重要。",
+    "related": "cure",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cure"
+    ],
+    "scenes": "四级例句"
+  },
+  "The bough improved a lot.": {
+    "translation": "该树枝有很大提升。",
+    "related": "bough",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bough"
+    ],
+    "scenes": "四级例句"
+  },
+  "This bee matters to us.": {
+    "translation": "这个蜂对我们很重要。",
+    "related": "bee",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bee"
+    ],
+    "scenes": "四级例句"
+  },
+  "The treaty is essential.": {
+    "translation": "这个条约至关重要。",
+    "related": "treaty",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: treaty"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the bird.": {
+    "translation": "我读了一份关于该鸟的报告。",
+    "related": "bird",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: bird"
+    ],
+    "scenes": "四级例句"
+  },
+  "He works butterfly.": {
+    "translation": "他工作得蝴蝶。",
+    "related": "butterfly",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: butterfly"
+    ],
+    "scenes": "四级例句"
+  },
+  "The insert is essential.": {
+    "translation": "这个插入至关重要。",
+    "related": "insert",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: insert"
+    ],
+    "scenes": "四级例句"
+  },
+  "This phase matters to us.": {
+    "translation": "这个阶段对我们很重要。",
+    "related": "phase",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: phase"
+    ],
+    "scenes": "四级例句"
+  },
+  "The team acted necessarily.": {
+    "translation": "团队行动得必然。",
+    "related": "necessarily",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: necessarily"
+    ],
+    "scenes": "四级例句"
+  },
+  "The cloth is essential.": {
+    "translation": "这个布至关重要。",
+    "related": "cloth",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cloth"
+    ],
+    "scenes": "四级例句"
+  },
+  "This door matters to us.": {
+    "translation": "这个门对我们很重要。",
+    "related": "door",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: door"
+    ],
+    "scenes": "四级例句"
+  },
+  "This description matters to us.": {
+    "translation": "这个描写对我们很重要。",
+    "related": "description",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: description"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the marry.": {
+    "translation": "我读了一份关于该结婚的报告。",
+    "related": "marry",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: marry"
+    ],
+    "scenes": "四级例句"
+  },
+  "The beat is essential.": {
+    "translation": "这个打至关重要。",
+    "related": "beat",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: beat"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the community.": {
+    "translation": "我读了一份关于该社区的报告。",
+    "related": "community",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: community"
+    ],
+    "scenes": "四级例句"
+  },
+  "The swing is essential.": {
+    "translation": "这个摇摆至关重要。",
+    "related": "swing",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: swing"
+    ],
+    "scenes": "四级例句"
+  },
+  "The branch is essential.": {
+    "translation": "这个树枝至关重要。",
+    "related": "branch",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: branch"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the uneasy.": {
+    "translation": "我读了一份关于该心神不安的的报告。",
+    "related": "uneasy",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: uneasy"
+    ],
+    "scenes": "四级例句"
+  },
+  "The solemn improved a lot.": {
+    "translation": "该严肃的有很大提升。",
+    "related": "solemn",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: solemn"
+    ],
+    "scenes": "四级例句"
+  },
+  "This sew matters to us.": {
+    "translation": "这个缝制对我们很重要。",
+    "related": "sew",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: sew"
+    ],
+    "scenes": "四级例句"
+  },
+  "The astronaut is essential.": {
+    "translation": "这个宇宙航行员至关重要。",
+    "related": "astronaut",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: astronaut"
+    ],
+    "scenes": "四级例句"
+  },
+  "She looks memorial today.": {
+    "translation": "她今天看起来很纪念的。",
+    "related": "memorial",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: memorial"
+    ],
+    "scenes": "四级例句"
+  },
+  "This dispose matters to us.": {
+    "translation": "这个去掉对我们很重要。",
+    "related": "dispose",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: dispose"
+    ],
+    "scenes": "四级例句"
+  },
+  "This brighten matters to us.": {
+    "translation": "这个使发光对我们很重要。",
+    "related": "brighten",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: brighten"
+    ],
+    "scenes": "四级例句"
+  },
+  "The addition improved a lot.": {
+    "translation": "该附加物有很大提升。",
+    "related": "addition",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: addition"
+    ],
+    "scenes": "四级例句"
+  },
+  "The sulfur is essential.": {
+    "translation": "这个硫至关重要。",
+    "related": "sulfur",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: sulfur"
+    ],
+    "scenes": "四级例句"
+  },
+  "The beginner is essential.": {
+    "translation": "这个初学者至关重要。",
+    "related": "beginner",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: beginner"
+    ],
+    "scenes": "四级例句"
+  },
+  "The impress is essential.": {
+    "translation": "这个给…深刻印象至关重要。",
+    "related": "impress",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: impress"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the print.": {
+    "translation": "我读了一份关于该印刷 n的报告。",
+    "related": "print",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: print"
+    ],
+    "scenes": "四级例句"
+  },
+  "This fit matters to us.": {
+    "translation": "这个适合对我们很重要。",
+    "related": "fit",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: fit"
+    ],
+    "scenes": "四级例句"
+  },
+  "The lay improved a lot.": {
+    "translation": "该置放有很大提升。",
+    "related": "lay",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: lay"
+    ],
+    "scenes": "四级例句"
+  },
+  "The pollute improved a lot.": {
+    "translation": "该弄脏有很大提升。",
+    "related": "pollute",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: pollute"
+    ],
+    "scenes": "四级例句"
+  },
+  "It is experimental to try.": {
+    "translation": "尝试是实验的的。",
+    "related": "experimental",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: experimental"
+    ],
+    "scenes": "四级例句"
+  },
+  "This attach matters to us.": {
+    "translation": "这个缚对我们很重要。",
+    "related": "attach",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: attach"
+    ],
+    "scenes": "四级例句"
+  },
+  "This focus matters to us.": {
+    "translation": "这个聚焦对我们很重要。",
+    "related": "focus",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: focus"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the hunt.": {
+    "translation": "我读了一份关于该打猎的报告。",
+    "related": "hunt",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: hunt"
+    ],
+    "scenes": "四级例句"
+  },
+  "The cruel is essential.": {
+    "translation": "这个残忍的至关重要。",
+    "related": "cruel",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cruel"
+    ],
+    "scenes": "四级例句"
+  },
+  "This desk matters to us.": {
+    "translation": "这个书桌对我们很重要。",
+    "related": "desk",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: desk"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the cost.": {
+    "translation": "我读了一份关于该价格的报告。",
+    "related": "cost",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cost"
+    ],
+    "scenes": "四级例句"
+  },
+  "The slam improved a lot.": {
+    "translation": "该使劲关有很大提升。",
+    "related": "slam",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: slam"
+    ],
+    "scenes": "四级例句"
+  },
+  "The decay improved a lot.": {
+    "translation": "该腐烂有很大提升。",
+    "related": "decay",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: decay"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the opera.": {
+    "translation": "我读了一份关于该歌剧的报告。",
+    "related": "opera",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: opera"
+    ],
+    "scenes": "四级例句"
+  },
+  "This towel matters to us.": {
+    "translation": "这个毛巾对我们很重要。",
+    "related": "towel",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: towel"
+    ],
+    "scenes": "四级例句"
+  },
+  "The crowd improved a lot.": {
+    "translation": "该人群有很大提升。",
+    "related": "crowd",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: crowd"
+    ],
+    "scenes": "四级例句"
+  },
+  "This decade matters to us.": {
+    "translation": "这个十年对我们很重要。",
+    "related": "decade",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: decade"
+    ],
+    "scenes": "四级例句"
+  },
+  "The introduction improved a lot.": {
+    "translation": "该介绍有很大提升。",
+    "related": "introduction",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: introduction"
+    ],
+    "scenes": "四级例句"
+  },
+  "The car improved a lot.": {
+    "translation": "该汽车有很大提升。",
+    "related": "car",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: car"
+    ],
+    "scenes": "四级例句"
+  },
+  "The prime is essential.": {
+    "translation": "这个首要的 n至关重要。",
+    "related": "prime",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: prime"
+    ],
+    "scenes": "四级例句"
+  },
+  "The ache improved a lot.": {
+    "translation": "该痛 n有很大提升。",
+    "related": "ache",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: ache"
+    ],
+    "scenes": "四级例句"
+  },
+  "The grand improved a lot.": {
+    "translation": "该宏伟的有很大提升。",
+    "related": "grand",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: grand"
+    ],
+    "scenes": "四级例句"
+  },
+  "The earn improved a lot.": {
+    "translation": "该赚得有很大提升。",
+    "related": "earn",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: earn"
+    ],
+    "scenes": "四级例句"
+  },
+  "The goodness is essential.": {
+    "translation": "这个优良至关重要。",
+    "related": "goodness",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: goodness"
+    ],
+    "scenes": "四级例句"
+  },
+  "The gunpowder improved a lot.": {
+    "translation": "该黑色火药有很大提升。",
+    "related": "gunpowder",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: gunpowder"
+    ],
+    "scenes": "四级例句"
+  },
+  "The spray improved a lot.": {
+    "translation": "该浪花有很大提升。",
+    "related": "spray",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: spray"
+    ],
+    "scenes": "四级例句"
+  },
+  "This guide matters to us.": {
+    "translation": "这个导游者 v对我们很重要。",
+    "related": "guide",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: guide"
+    ],
+    "scenes": "四级例句"
+  },
+  "The pile is essential.": {
+    "translation": "这个堆 v至关重要。",
+    "related": "pile",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: pile"
+    ],
+    "scenes": "四级例句"
+  },
+  "The row is essential.": {
+    "translation": "这个一）排至关重要。",
+    "related": "row",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: row"
+    ],
+    "scenes": "四级例句"
+  },
+  "The trick is essential.": {
+    "translation": "这个诡计至关重要。",
+    "related": "trick",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: trick"
+    ],
+    "scenes": "四级例句"
+  },
+  "This february matters to us.": {
+    "translation": "这个二月对我们很重要。",
+    "related": "february",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: february"
+    ],
+    "scenes": "四级例句"
+  },
+  "I read a report about the cell.": {
+    "translation": "我读了一份关于该细胞的报告。",
+    "related": "cell",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: cell"
+    ],
+    "scenes": "四级例句"
+  },
+  "He works completely.": {
+    "translation": "他工作得十分。",
+    "related": "completely",
+    "pos": "adv.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adv."
+    ],
+    "examples": [
+      "Related word: completely"
+    ],
+    "scenes": "四级例句"
+  },
+  "The extend improved a lot.": {
+    "translation": "该延长有很大提升。",
+    "related": "extend",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: extend"
+    ],
+    "scenes": "四级例句"
+  },
+  "The pair is essential.": {
+    "translation": "这个一对 v至关重要。",
+    "related": "pair",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: pair"
+    ],
+    "scenes": "四级例句"
+  },
+  "The policy improved a lot.": {
+    "translation": "该政策有很大提升。",
+    "related": "policy",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: policy"
+    ],
+    "scenes": "四级例句"
+  },
+  "The sympathetic improved a lot.": {
+    "translation": "该同情的有很大提升。",
+    "related": "sympathetic",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: sympathetic"
+    ],
+    "scenes": "四级例句"
+  },
+  "This mass matters to us.": {
+    "translation": "这个团对我们很重要。",
+    "related": "mass",
+    "pos": "n.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:n."
+    ],
+    "examples": [
+      "Related word: mass"
+    ],
+    "scenes": "四级例句"
+  },
+  "We desperate it every day.": {
+    "translation": "我们每天拼死的。",
+    "related": "desperate",
+    "pos": "v.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:v."
+    ],
+    "examples": [
+      "Related word: desperate"
+    ],
+    "scenes": "四级例句"
+  },
+  "The plan seems initial.": {
+    "translation": "这个计划看起来很最初的。",
+    "related": "initial",
+    "pos": "adj.",
+    "tags": [
+      "CET4",
+      "sentence",
+      "pack:v0.3",
+      "pos:adj."
+    ],
+    "examples": [
+      "Related word: initial"
+    ],
+    "scenes": "四级例句"
+  }
+}

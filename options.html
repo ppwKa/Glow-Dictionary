@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Glow Dictionary 设置</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <style>
+        body {
+            font-family: system-ui, -apple-system, Segoe UI, Roboto;
+            margin: 24px;
+            color: #222;
+        }
+
+        h1 {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+
+        h2 {
+            font-size: 16px;
+            margin-top: 20px;
+        }
+
+        .row {
+            margin: 12px 0;
+        }
+
+        .flex {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 220px 1fr;
+            gap: 10px 16px;
+            align-items: center;
+        }
+
+        .option-list {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        textarea,
+        pre {
+            width: 100%;
+            height: 360px;
+            padding: 10px;
+            font-family: ui-monospace, Menlo, Consolas, monospace;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            outline: none;
+            background: #fff;
+            overflow: auto;
+        }
+
+        button {
+            padding: 8px 14px;
+            border-radius: 10px;
+            border: 1px solid #e5e7eb;
+            background: #fff;
+            cursor: pointer;
+        }
+
+        button.primary {
+            background: #111827;
+            color: #fff;
+            border-color: #111827;
+        }
+
+        .hint {
+            color: #555;
+            font-size: 13px;
+        }
+
+        select {
+            padding: 8px;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+        }
+
+        label.inline {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Glow Dictionary 设置</h1>
+    <div class="hint">选择默认词库版本（可多选）与启用项，并管理你的自定义词库（可导入/导出，便于换设备）。</div>
+
+    <h2>默认词库（只读）</h2>
+    <div class="grid option-list">
+        <label>启用版本 v0.2</label>
+        <input id="packV02" type="checkbox" />
+        <label>启用版本 v0.3</label>
+        <input id="packV03" type="checkbox" />
+        <label>启用「单词」</label>
+        <input id="w" type="checkbox" />
+        <label>启用「短语」</label>
+        <input id="p" type="checkbox" />
+        <label>启用「句子」</label>
+        <input id="s" type="checkbox" />
+        <label>启用高亮</label>
+        <input id="enbl" type="checkbox" />
+    </div>
+
+    <h2>查看示例 JSON（只读预览）</h2>
+    <div class="row">
+        <label class="inline">版本
+            <select id="samplePack">
+                <option value="v0.2">v0.2</option>
+                <option value="v0.3">v0.3</option>
+            </select>
+        </label>
+        <label class="inline">分类
+            <select id="sampleKind">
+                <option value="words">words.json</option>
+                <option value="phrases">phrases.json</option>
+                <option value="sentences">sentences.json</option>
+            </select>
+        </label>
+        <button id="loadSample" class="primary">查看</button>
+        <button id="copySample">复制到剪贴板</button>
+    </div>
+    <pre id="sampleView" style="height:240px;"></pre>
+
+    <h2>自定义词库（可编辑）</h2>
+    <div class="row">
+        <div class="hint">JSON 结构：键为术语（英文建议小写），值含 translation/pos/tags/examples/scenes。</div>
+    </div>
+    <div class="row">
+        <textarea id="jsonInput" spellcheck="false"
+            placeholder='{"latency":{"translation":"延迟","pos":"n."}}'></textarea>
+    </div>
+    <div class="row flex">
+        <button id="save" class="primary">保存</button>
+        <button id="format">格式化</button>
+        <input type="file" id="file" accept=".json" />
+        <button id="export">导出自定义词库</button>
+        <button id="clear">清空自定义词库</button>
+    </div>
+
+    <div class="row hint">右键“加入 Glow Dictionary 词典”添加的内容会写入自定义词库。</div>
+
+    <script src="options.js"></script>
+</body>
+
+</html>

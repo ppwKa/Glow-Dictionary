@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Glow Dictionary</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        body {
+            font-family: system-ui, -apple-system, Segoe UI, Roboto;
+            margin: 12px;
+            color: #222;
+            width: 300px;
+        }
+
+        .row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            margin: 10px 0;
+        }
+
+        .row.option {
+            margin-top: 5px;
+            margin-bottom: 0;
+        }
+
+        .label {
+            font-size: 13px;
+        }
+
+        .btn {
+            padding: 6px 10px;
+            border-radius: 10px;
+            border: 1px solid #e5e7eb;
+            background: #fff;
+            cursor: pointer;
+        }
+
+        .btn.primary {
+            background: #111827;
+            color: #fff;
+            border-color: #111827;
+        }
+
+        .sep {
+            height: 1px;
+            background: #eee;
+            margin: 10px 0;
+        }
+
+        small {
+            color: #666;
+        }
+
+        .stack {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row">
+        <div class="label" id="t_enable">启用高亮</div><input type="checkbox" id="chkEnable" />
+    </div>
+
+    <div class="stack">
+        <div class="label" id="t_packs">默认词库版本（可多选）</div>
+        <label class="row option" style="justify-content:flex-start;">
+            <input type="checkbox" id="packV02" /> <span style="margin-left:8px;">v0.2</span>
+        </label>
+        <label class="row option" style="justify-content:flex-start;">
+            <input type="checkbox" id="packV03" /> <span style="margin-left:8px;">v0.3</span>
+        </label>
+    </div>
+
+    <div class="sep"></div>
+    <div class="row">
+        <div class="label" id="t_words">启用默认「单词」</div><input type="checkbox" id="chkWords" />
+    </div>
+    <div class="row">
+        <div class="label" id="t_phrases">启用默认「短语」</div><input type="checkbox" id="chkPhrases" />
+    </div>
+    <div class="row">
+        <div class="label" id="t_sentences">启用默认「句子」</div><input type="checkbox" id="chkSentences" />
+    </div>
+    <div class="sep"></div>
+    <div class="row"><button id="openOptions" class="btn primary">打开设置</button><small id="ver"></small></div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>

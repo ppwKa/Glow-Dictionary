@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Glow Dictionary - 本地词典标注",
+    "version": "0.3.1",
+    "description": "在网页中基于本地词典高亮术语，悬浮显示翻译与语义场景；支持右键快速加词（中英文界面），默认词库分版本启用。",
+    "permissions": ["storage", "contextMenus", "activeTab", "scripting", "notifications"],
+    "host_permissions": ["<all_urls>"],
+    "background": { "service_worker": "background.js" },
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*", "file://*/*"],
+        "js": ["content.js"],
+        "css": ["content.css"],
+        "run_at": "document_idle",
+        "all_frames": true
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Glow Dictionary"
+    },
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "assets/dicts/*/*.json"
+        ],
+        "matches": ["<all_urls>"]
+      }
+    ],
+    "options_page": "options.html"
+  }
+  
